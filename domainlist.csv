@@ -26,3 +26,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 26,2,(\.|^)xxx\.com$,1,1660316729,1660316729,"For Deplay Kidswatch"
 27,2,(\.|^)www\.klm\.com$,1,1663877066,1663877066,
 28,2,(\.|^)kinderpostzegels\.nl$,1,1664362472,1664362472,
+29,3,(\.|^)test\.test\.com$,1,1674327917,1674327917,"test domain"
