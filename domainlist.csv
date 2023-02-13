@@ -28,3 +28,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 28,2,(\.|^)kinderpostzegels\.nl$,1,1664362472,1664362472,""
 29,3,(\.|^)test\.test\.com$,1,1674327917,1674327917,"test domain"
 30,3,(\.|^)manecraft\.giize\.com$,1,1674832907,1674832907,Malware
+31,2,(\.|^)petersen-tegl\.dk$,1,1676325568,1676325568,
