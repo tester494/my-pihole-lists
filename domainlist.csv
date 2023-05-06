@@ -30,3 +30,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 30,3,(\.|^)manecraft\.giize\.com$,1,1674832907,1674832907,Malware
 31,2,(\.|^)petersen-tegl\.dk$,1,1676325568,1676325568,
 32,2,(\.|^)dailybuzz\.nl$,1,1676471454,1676471454,
+33,2,(\.|^)whispersystems\.org$,1,1683359087,1683359087,"Signal app"
+34,2,(\.|^)signal\.org$,1,1683359099,1683359099,"Signal app"
