@@ -33,3 +33,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 33,2,(\.|^)whispersystems\.org$,1,1683359087,1683359087,"Signal app"
 34,2,(\.|^)signal\.org$,1,1683359099,1683359099,"Signal app"
 35,2,(\.|^)fiscaalgemak\.nl$,1,1685045946,1685045946,
+36,2,(\.|^)212\.60\.104\.130$,1,1699887031,1699887031,"Leba VPN"
+37,2,(\.|^)192\.168\.25\.46$,1,1699887135,1699887135,"Leba RDP server IP"
