@@ -38,3 +38,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 38,2,(\.|^)youtube\.com$,1,1705303699,1705303699,
 39,2,(\.|^)paypal\.com$,1,1705746679,1705746679,
 40,2,(\.|^)disneyplus\.com$,1,1708444696,1708444696,
+41,2,(\.|^)hbomax\.com$,1,1709312151,1709312151,
