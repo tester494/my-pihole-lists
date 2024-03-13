@@ -39,3 +39,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 39,2,(\.|^)paypal\.com$,1,1705746679,1705746679,
 40,2,(\.|^)disneyplus\.com$,1,1708444696,1708444696,
 41,2,(\.|^)hbomax\.com$,1,1709312151,1709312151,
+42,2,(\.|^)discord\.com$,1,1710340954,1710340954,
+43,0,click.discord.com,1,1710341042,1710341042,
