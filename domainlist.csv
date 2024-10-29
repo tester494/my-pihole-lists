@@ -41,3 +41,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 41,2,(\.|^)hbomax\.com$,1,1709312151,1709312151,
 42,2,(\.|^)discord\.com$,1,1710340954,1710340954,
 43,0,click.discord.com,1,1710341042,1710341042,
+44,2,(\.|^)gament\.lan$,1,1730207381,1730207381,"Local domain GameNT"
