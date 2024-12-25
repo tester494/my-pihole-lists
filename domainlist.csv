@@ -148,3 +148,12 @@ id,type,domain,enabled,date_added,date_modified,comment
 153,1,data.flurry.com,1,1731499653,1731499653,"Microsoft O365 Telemetry - h5pYKA"
 154,1,app.adjust.com,1,1731499653,1731499653,"Microsoft O365 Telemetry - h5pYKA"
 155,1,activity.windows.com,1,1731499653,1731499653,"Microsoft O365 Telemetry - h5pYKA"
+156,0,app-measurement.com,1,1735161453,1735161453,
+157,0,styles.redditmedia.com,1,1735161558,1735161558,
+158,0,www.redditstatic.com,1,1735161564,1735161564,
+159,0,reddit.map.fastly.net,1,1735161570,1735161570,
+160,0,www.redditmedia.com,1,1735161575,1735161575,
+161,0,reddit-uploaded-media.s3-accelerate.amazonaws.com,1,1735161583,1735161583,
+162,2,[a-z]\.thumbs\.redditmedia\.com,1,1735161595,1735161595,
+163,2,(\.|^)redd\.it$,1,1735161603,1735161603,
+164,2,(\.|^)reddit\.com$,1,1735161609,1735161609,
