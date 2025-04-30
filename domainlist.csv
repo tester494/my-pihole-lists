@@ -157,3 +157,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 162,2,[a-z]\.thumbs\.redditmedia\.com,1,1735161595,1735161595,
 163,2,(\.|^)redd\.it$,1,1735161603,1735161603,
 164,2,(\.|^)reddit\.com$,1,1735161609,1735161609,
+165,2,(\.|^)shiftscale\.nl$,1,1746007074,1746007074,
