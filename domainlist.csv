@@ -169,3 +169,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 174,0,disneyplus.bn5x.net,1,1746019925,1746019925,
 175,0,js-agent.newrelic.com,1,1746019931,1746019931,
 176,0,disney-plus.net,1,1746019936,1746019936,
+177,2,(\.|^)aliexpress\.com$,1,1756726284,1756726284,
