@@ -171,3 +171,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 176,0,disney-plus.net,1,1746019936,1746019936,
 177,2,(\.|^)aliexpress\.com$,1,1756726284,1756726284,
 178,2,(\.|^)epicgames\.com$,1,1766867745,1766867745,
+179,0,meet.google.com,1,1775591704,1775591704,
